@@ -1,25 +1,24 @@
-# 👋 Hello, I'm Võ Trung Thành!
+# 👋 Hi, I'm thanhdotdev  
 
-Welcome to my profile! I'm a passionate Go developer with a focus on clean architecture and design patterns. I strive to write readable, maintainable, and robust code that stands the test of time.
+## 🌱 About Me  
+- I am a passionate developer with a focus on optimizing user experience and rigorous software development practices.  
+- I love learning and implementing new technologies.  
+- My current interests include cloud computing, artificial intelligence, and blockchain technology.  
 
-## 🛠️ Tech Stack
-- **Languages:** Go, PHP (Laravel)
-- **Databases:** PostgreSQL, Redis
-- **Containerization:** Docker
-- **Experience:** 1 year of Golang
+## 💻 Skills  
+- Proficient in JavaScript, Python, and Java.  
+- Experienced in building web applications using React, Node.js, and Express.  
+- Familiar with cloud platforms like AWS and Azure.  
 
-## 🏙️ Location
-Based in Ho Chi Minh City, Vietnam.
+## 📫 How to Reach Me  
+- LinkedIn: [linkedin.com/in/thanhdev](https://www.linkedin.com/in/thanhdev)  
+- Email: thanhdotdev@example.com  
 
-## 🎓 Learning Interests
-- System Design
-- System Architecture
+## 📚 I’m currently learning  
+- Advanced React Patterns  
+- Machine Learning techniques  
 
-## 📈 GitHub Stats
-![Võ Trung Thành's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanhdotdev&show_icons=true)
+## 🌍 My Projects  
+- [Project Name](https://github.com/thanhdev/project-name) - A brief description of the project.  
 
-## ⚡ Activity Badges
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=thanhdotdev.thanhdotdev)
-
-## 📫 Contact Me
-Feel free to reach out via my [LinkedIn](https://www.linkedin.com/in/votrungthanh/) or [Twitter](https://twitter.com/thanhdotdev)!
+Feel free to check out my repositories and collaborate!
