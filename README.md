@@ -1,4 +1,9 @@
 # 👋 Hi, I'm Võ Trung Thành (@thanhdotdev)
+
+<p align="center">
+  <img src="https://github.com/thanhdotdev/thanhdotdev/blob/main/gopher.jpg" alt="Võ Trung Thành's Gopher" width="350" />
+</p>
+
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADD8&width=435&lines=Go+Developer;Building+Clean+Architecture;Focusing+on+SOLID+Principles" alt="Typing SVG" /></a>
 </p>
