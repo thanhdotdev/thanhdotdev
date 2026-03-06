@@ -16,25 +16,10 @@ A passionate **Backend Developer** based in Ho Chi Minh City 🇻🇳. I special
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🎓 Learning Interests
-- **Advanced System Architecture:** Designing high-availability distributed systems.
-- **TUI (Terminal User Interface):** Creating beautiful and functional CLI tools in Go.
-
-- **System Design:** Exploring complex distributed systems and high-availability patterns.
-- **TUI & CLI:** Building aesthetically pleasing Terminal User Interfaces with Go.
-- **Japan Culture:** Fan of Japanese landscapes and the aesthetic of "Ghost of Tsushima".
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhdotdev&show_icons=true&theme=tokyonight" alt="Thành's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdotdev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votrungthanh/)
-[![X/Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/thanhdotdev)
+- **Architectural Paradigms:** Mastering Clean Architecture, Hexagonal Architecture, and Domain-Driven Design (DDD).
+- **Design Principles:** Mastering SOLID, DRY, and KISS to ensure code remains maintainable and robust.
+- **Design Patterns:** Implementing idiomatic Go patterns to solve complex structural challenges.
+- **System Design:** Exploring high-availability patterns and distributed system architectures.
 
 ---
 *“Clean code always looks like it was written by someone who cares.”*
-*“Simplicity is the ultimate sophistication.”*
