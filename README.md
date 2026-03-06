@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Võ Trung Thành (@thanhdotdev)
 <p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADD8&width=435&lines=Go+Developer;Clean+Architecture+Enthusiast;Software+Architect+In+The+Making" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADD8&width=435&lines=Go+Developer;Building+Clean+Architecture;Focusing+on+SOLID+Principles" alt="Typing SVG" /></a>
 </p>
 
 A **Backend Developer** based in Ho Chi Minh City 🇻🇳. I specialize in building scalable systems with **Go**, with a strong focus on **Clean Architecture** and **SOLID** principles.
@@ -27,9 +27,6 @@ A **Backend Developer** based in Ho Chi Minh City 🇻🇳. I specialize in buil
 ---
 
 ### 📫 Let's Connect!
-<p align="left">
-  <a href="https://www.linkedin.com/in/thanh-vo-trung-a30b73266/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
 <p align="left">
   <a href="https://www.linkedin.com/in/thanh-vo-trung-a30b73266/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
