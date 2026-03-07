@@ -8,7 +8,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADD8&width=435&lines=Go+Developer;Building+Clean+Architecture;Focusing+on+SOLID+Principles" alt="Typing SVG" /></a>
 </p>
 
-A **Backend Developer** based in Ho Chi Minh City 🇻🇳. I specialize in building scalable systems with **Go**, with a strong focus on **Clean Architecture** and **SOLID** principles.
+A **Developer** from **Việt Nam** 🇻🇳. I specialize in building scalable systems with **Go**, with a strong focus on **Clean Architecture** and **SOLID** principles.
 
 ---
 
